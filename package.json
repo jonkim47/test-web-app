@@ -1,5 +1,6 @@
 {
   "name": "test-web-app",
+  "homepage": "http://jonkim47.io/test-web-app "
   "private": true,
   "version": "1.0.0",
   "type": "module",
